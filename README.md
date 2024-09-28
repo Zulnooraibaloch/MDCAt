@@ -1,2 +1,2 @@
-# MDCAt
+# MDCAT
 Calculator
